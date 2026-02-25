@@ -2,6 +2,8 @@
 
 > The following repository contains a project created for university assessment.
 It contains ML model comparison for **Predicting COVID-19 Daily Deaths and Excess Mortality for Omicron Wave (Jan 2022)** based on previous years' data (2020 -21).
+> Countries: United Kingdom, Germany, Switzerland
+> City: Hamburg
 
 ## Dataset
 - Source: Our World In Data (COVID19), RKI Data provided by Professor.
