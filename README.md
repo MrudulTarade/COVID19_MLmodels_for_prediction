@@ -6,6 +6,7 @@ It contains ML model comparison for **Predicting COVID-19 Daily Deaths and Exces
 > City: Hamburg
 
 ## Dataset
+> Sample dataset added as compact.parquet and rki_merged_all_ages_ENG.csv as the original data is more than 1GB.
 - Source: Our World In Data (COVID19), RKI Data provided by Professor.
 - Rows: 535,365 (OWID) / 4,640 (RKI)
 - Columns: 61 / 13
