@@ -37,6 +37,8 @@ It contains ML model comparison for **Predicting COVID-19 Daily Deaths and Exces
 - MAE 
 - R² / RMSE
 
+> AI usage has been made for the sole purpose of creating Markdowns, bug fixes and comments in the notebooks
+
 # Made by
 ## Mrudul Madhukar Tarade
 www.linkedin.com/in/mrudul-tarade-b4270a279
